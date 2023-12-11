@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.heitor.nuclea.NucleaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.01 s -- in br.com.heitor.nuclea.NucleaApplicationTests
